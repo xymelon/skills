@@ -1,0 +1,10 @@
+{
+  "global_claude_md": 1500,
+  "project_claude_md": 3000,
+  "plugin_descriptions": 2500,
+  "skill_descriptions": 4000,
+  "agent_definitions": 3000,
+  "tool_schemas": 8000,
+  "auto_memory": 1000,
+  "first_turn_total": 25000
+}
